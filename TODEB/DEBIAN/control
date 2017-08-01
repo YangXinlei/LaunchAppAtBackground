@@ -1,0 +1,11 @@
+Package: com.qunar.yxl.launchBk
+Name: launchBk
+Version: 1.0
+Description: Launch app at background
+Section: launchBk
+Depends: firmware (>= 4.3)
+Priority: optional
+Architecture: iphoneos-arm
+Author: xinlei.yang
+Homepage: yangxinlei.github.io
+Maintainer: yangxinlei
